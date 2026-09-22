@@ -1,6 +1,6 @@
 classdef LineCodeAnalyzerApp < handle
     % LINE CODE ANALYZER - SP25 DIGITAL COMMUNICATION GROUP PROJECT
-    % Author: Rohit Kumar Choubey - IIT Madras BS Degree Program
+    % Author: Ethan Alfin Lourenco - IIT Madras BS Degree Program
     
     properties (Access = private)
         UIFigure             matlab.ui.Figure
